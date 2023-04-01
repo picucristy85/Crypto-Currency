@@ -1,5 +1,6 @@
 # Crypto-Currency
 Sa se creeza clasa abstracta CryptoCurrency, cu proprietatea double valueInUSD si metoda abstracta changeValue().
+
 Sa se creeze clasele copil Bitcoin, Ethereum si XRP, care vor avea propria lor implementare a metodei changeValue().
 
 Bitcoin are o sansa de 60% sa creasca cu 100 USD si 40% sa scada cu 80 USD.
